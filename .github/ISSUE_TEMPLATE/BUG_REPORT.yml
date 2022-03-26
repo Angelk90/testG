@@ -23,9 +23,7 @@ body:
     attributes:
       label: Screenshots
       placeholder: If applicable, add screenshots to help explain your problem.
-  - type: textarea
-    attributes:
-      label: Desktop (please complete the following information):
+
   - type: textarea
     attributes:
       label: Additional context
