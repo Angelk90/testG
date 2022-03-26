@@ -26,10 +26,6 @@ body:
   - type: textarea
     attributes:
       label: Desktop (please complete the following information):
-      value: |
-        CodeEdit: [e.g. 1.0]
-        MacOS: [e.g. 12.3.0]
-        Xcode: [e.g. 13.3]
   - type: textarea
     attributes:
       label: Additional context
