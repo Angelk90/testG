@@ -25,7 +25,7 @@ body:
       placeholder: If applicable, add screenshots to help explain your problem.
   - type: textarea
     attributes:
-      label: Desktop (please complete the following information)
+      label: "Desktop (please complete the following information):"
       value: |
         CodeEdit: `[e.g. 1.0]`
         MacOS: `[e.g. 12.3.0]`
