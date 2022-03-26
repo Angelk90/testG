@@ -11,10 +11,10 @@ body:
     attributes:
       label: To Reproduce
       value: |
-              1. Go to '...'
-              2. Click on '....'
-              3. Scroll down to '....'
-              4. See error
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
   - type: textarea
     attributes:
       label: Expected behavior
@@ -27,9 +27,9 @@ body:
     attributes:
       label: Desktop (please complete the following information):
       value: |
-             CodeEdit: [e.g. 1.0]
-             MacOS: [e.g. 12.3.0]
-             Xcode: [e.g. 13.3]
+        CodeEdit: [e.g. 1.0]
+        MacOS: [e.g. 12.3.0]
+        Xcode: [e.g. 13.3]
   - type: textarea
     attributes:
       label: Additional context
